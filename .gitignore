@@ -19,3 +19,5 @@
 /translations
 /var
 /x86_64-conda_cos6-linux-gnu
+/classification/.ipynb_checkpoints
+/regression_folder/.ipynb_checkpoints
